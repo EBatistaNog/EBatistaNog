@@ -16,4 +16,4 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EBatistaNog&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EBatistaNog&theme=blue-green)
